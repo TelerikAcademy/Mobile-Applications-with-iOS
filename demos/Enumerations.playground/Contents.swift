@@ -3,7 +3,7 @@ enum HttpResponse{
     case Error
 }
 
-let response = HttpResponse.Success;
+let response = HttpResponse.Success(status:201);
 
 switch response {
 case .Success(200):
