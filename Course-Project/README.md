@@ -39,7 +39,7 @@ The examination for each student will be done as follows:
   - Any missing component of the above will result in lower project points
 - The student has **20 minutes** to present their application as follows:
   - 5 minutes for the **idea of the application**
-  - 10 minutes for **explanation of the code** and how it **follows the requirements** of a [Game Application](/GAME_REQUIREMENTS.md) or [Line-of-business application](/LOB_APP_REQUIREMENTS.md)
+  - 10 minutes for **explanation of the code** and how it **follows the requirements** of a [Game Application](GAME_REQUIREMENTS.md) or [Line-of-business application](LOB_APP_REQUIREMENTS.md)
   - 5 minutes for **questions by trainer**
 - The student **must answer all questions** of the trainer, concerning their application
   - Any not answered question about the code and/or the application can lead to unwanted results by both parties
